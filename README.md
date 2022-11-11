@@ -1,3 +1,4 @@
+MANGU♾INNOVATION
 Acoin7 Core integration/staging tree
 =====================================
 
