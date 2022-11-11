@@ -3,7 +3,7 @@ Acoin7 Core integration/staging tree
 
 [![Build Status](https://travis-ci.org/acoin7-project/acoin7.svg?branch=master)](https://travis-ci.org/acoin7-project/acoin7)
 
-https://acoin7.org
+https://acoin7.com
 
 What is Acoin7?
 ----------------
